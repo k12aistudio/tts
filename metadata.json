@@ -1,0 +1,5 @@
+{
+  "name": "VoxGen AI",
+  "description": "Professional Text-to-Speech generator using Gemini 2.5 Flash TTS with customizable voice presets and style instructions.",
+  "requestFramePermissions": []
+}
